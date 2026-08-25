@@ -1,14 +1,19 @@
-# Jesse Di Giacomo
+# Jessé Di Giacomo Silva
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JesseDiGiacomo&color=blueviolet&style=flat-square)](https://github.com/JesseDiGiacomo)
+[![Portfólio Live](https://img.shields.io/badge/🌐_Portfólio_Online-jessedigiacomo.github.io-2563eb?style=for-the-badge)](https://jessedigiacomo.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessedigiacomo/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4799--7576-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4799-7576)
+
+<br>
+
 [![GitHub Repositories](https://img.shields.io/badge/Repositórios-33-2ea44f?style=flat-square&logo=github)](https://github.com/JesseDiGiacomo?tab=repositories)
 [![Second Brain Architecture](https://img.shields.io/badge/Architecture-Second%20Brain%20(10%20Áreas)-8a2be2?style=flat-square)](https://github.com/JesseDiGiacomo)
 
-**Engenharia de Software · Neurociências & Psicologia · Inteligência Artificial & Deep Learning · Voo Livre & Aviação**
+**Docência (IFRJ) · Neurociências (UFRJ) · Inteligência Artificial & Deep Learning · Voo Livre & Aviação (CBVL)**
 
-[🧠 Psicologia](#-01--02--psicologia--prática-clínica) • [🎮 Jogos Digitais](#-03--docência--jogos-digitais-ifrj) • [🔬 Neurociências](#-04--05--pesquisa-neurociências--pós-doc) • [🤖 IA & Machine Learning](#-06--dev-ia-machine-learning--deep-learning) • [🪂 Voo Livre](#-07--08--voo-livre-aviação--cbvl) • [⚙️ Utilitários](#-09--10--utilitários-setups--infra-pessoal)
+[🌐 Portfólio](https://jessedigiacomo.github.io) • [🧠 Psicologia](#-01--02--psicologia--prática-clínica) • [🎮 Jogos Digitais](#-03--docência--jogos-digitais-ifrj) • [🔬 Neurociências](#-04--05--pesquisa-neurociências--pós-doc) • [🤖 IA & Machine Learning](#-06--dev-ia-machine-learning--deep-learning) • [🪂 Voo Livre](#-07--08--voo-livre-aviação--cbvl) • [⚙️ Utilitários](#-09--10--utilitários-setups--infra-pessoal)
 
 ---
 
@@ -17,6 +22,8 @@
 ## 🧭 Projetos, Pesquisa e Código Aberto
 
 Minha atuação se divide entre a sala de aula, o laboratório de pesquisa e o desenvolvimento de software. Para manter essa produção interdisciplinar clara e acessível, organizo meus repositórios em torno das minhas principais frentes de trabalho: **docência no IFRJ, pesquisa em neurociências (UFRJ), modelos de inteligência artificial e ferramentas para o voo livre**.
+
+> 💡 **Dica:** Para uma experiência interativa com filtros dinâmicos, busca por tecnologias e artigos científicos integrados ao ORCID, visite o meu [**Portfólio Online**](https://jessedigiacomo.github.io).
 
 Abaixo você encontra o catálogo detalhado desses projetos:
 
