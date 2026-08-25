@@ -14,9 +14,11 @@
 
 </div>
 
-## 🧭 Navegação do Second Brain (10 Áreas Mestras)
+## 🧭 Projetos, Pesquisa e Código Aberto
 
-Bem-vindo ao índice central de repositórios estruturado sob a arquitetura taxonômica do **Second Brain**. Aqui você encontra todos os projetos, ferramentas clínicas, pesquisas, frameworks de IA e desenvolvimentos técnicos organizados por domínio.
+Minha atuação se divide entre a sala de aula, o laboratório de pesquisa e o desenvolvimento de software. Para manter essa produção interdisciplinar clara e acessível, organizo meus repositórios em torno das minhas principais frentes de trabalho: **docência no IFRJ, pesquisa em neurociências (UFRJ), modelos de inteligência artificial e ferramentas para o voo livre**.
+
+Abaixo você encontra o catálogo detalhado desses projetos:
 
 ---
 
@@ -102,5 +104,5 @@ Bem-vindo ao índice central de repositórios estruturado sob a arquitetura taxo
 ---
 
 <div align="center">
-  <sub>Organizado e mantido automaticamente sob o modelo taxonômico Second Brain.</sub>
+  <sub>Organizado e mantido sob a arquitetura Second Brain.</sub>
 </div>
